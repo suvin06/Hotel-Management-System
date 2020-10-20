@@ -1,0 +1,8 @@
+INFO  10:31:43 Application started. Press Ctrl+C to shut down.
+INFO  10:31:43 Application started. Press Ctrl+C to shut down.
+INFO  10:31:43 Hosting environment: Development
+INFO  10:31:43 Hosting environment: Development
+INFO  10:31:43 Content root path: C:\Users\suvin\source\repos\MVCController
+INFO  10:31:43 Content root path: C:\Users\suvin\source\repos\MVCController
+INFO  10:32:38 MVCAuthenticationController - Login
+INFO  10:32:41 MVCBookingController - GetBooking

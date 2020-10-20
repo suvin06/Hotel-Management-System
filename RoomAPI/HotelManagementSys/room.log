@@ -1,0 +1,14 @@
+INFO  04:05:01 Application started. Press Ctrl+C to shut down.
+INFO  04:05:01 Application started. Press Ctrl+C to shut down.
+INFO  04:05:01 Hosting environment: Development
+INFO  04:05:01 Hosting environment: Development
+INFO  04:05:01 Content root path: C:\Users\suvin\source\repos\HotelManagementSys
+INFO  04:05:01 Content root path: C:\Users\suvin\source\repos\HotelManagementSys
+INFO  04:05:43 adminController Http GET ALL
+INFO  09:30:49 Application started. Press Ctrl+C to shut down.
+INFO  09:30:49 Application started. Press Ctrl+C to shut down.
+INFO  09:30:49 Hosting environment: Development
+INFO  09:30:49 Hosting environment: Development
+INFO  09:30:49 Content root path: C:\Users\suvin\source\repos\HotelManagementSys
+INFO  09:30:49 Content root path: C:\Users\suvin\source\repos\HotelManagementSys
+INFO  09:30:55 RoomController Http GET ALL ROOMTYPE
